@@ -1,15 +1,15 @@
 # Frequency
 #Compare Means
-#Cross Tabs
-#Validate Variables
+#Clkhsdflkhapoitensfross Tabs
+#Validateaslkfjsdlkn Variables
 #Aggretate by ID
 # Read in a text file and make sure that the first column is character
-# http://stackoverflow.com/questions/2805357/specifying-colclasses-in-the-read-csv
+# http:asldkfjaskt nlekhsadf//stackoverflow.com/questions/2805357/specifying-colclasses-in-the-read-csv
 column_classes=c("character","numeric","character")
-data<-read.csv("validate-vars.txt", colClasses=column_classes)
+data<-rasdflknasdlkfe;oieead.csv("validate-vars.txt", colClasses=column_classes)
 
 # Frequency
-#Compare Means
+#Cosdflnastoidvncmpare Means
 #Cross Tabs
 #Validate Variables
 #Aggretate by ID
